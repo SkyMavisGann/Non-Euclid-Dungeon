@@ -5,7 +5,7 @@
 Object Impermanence is a VR dungeon crawler utilizing Non-Euclidean Geometry tricks and puzzles. You explore a dungeon full of mysterious and weird artifacts which you can sell to buy weapons and tools. But beware there are creatures that lurk in the dark. In order to leave the dungeon alive you’ll have to find the final boss and defeat him.
 
 ## Credits
-- **Developer:** Kyle Gann
+- **Developer:** Sky Gann
 - **Artist and Co-Developer:** Charlie Major
 
 ## About
